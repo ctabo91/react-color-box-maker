@@ -27,7 +27,7 @@ const BoxList = () => {
             <NewBoxForm createBox={addBox} />
             {boxComponents}
         </div>
-    )
+    );
 }
 
 
